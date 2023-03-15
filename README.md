@@ -8,9 +8,13 @@ In this case, since x2 >= 0 and we want x2 to be as small as possible, we alread
 Solving both, we get answers of x1 = 5 and x1 = 4 (these are the largest possible x1 values given their respective constraints and that we wish to maximize x1). Taking the minimum, we find that x1 = 4.
 
 Now that we have found both x1 and x2, we can confirm that these values satisfy all the constraints:
+
 4 + 0 = 4 <= 5 is true
+
 2(4) + 0 = 8 <= 8 is true
+
 4 >= 0 is true
+
 0 >= 0 is true
 
 Min Z = -3(4) + 0 = -12
